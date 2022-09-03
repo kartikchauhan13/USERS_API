@@ -1,2 +1,2 @@
-# USERS_API_ASSIGNMENT
+# USERS_API
 api for crud operations on users using django
